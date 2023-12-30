@@ -1,6 +1,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
-const {circle, triangle, sqaure} = require('./lib/shapes.js')
+const path = require('path');
+const {Circle, Triangle, Sqaure} = require('./lib/shapes.js');
 
 const questions = [
     {
@@ -36,7 +37,7 @@ const questions = [
 function init() {
     inquirer.prompt(questions).then(responses => {
         console.log(responses)
-        console.log('Generated logo.svg')})
+        console.log('Generated logo.svg')});
     };
 
 init();

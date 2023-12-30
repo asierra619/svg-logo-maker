@@ -13,17 +13,17 @@ The SVG Logo Maker is intended to quickly provide simple logos to anyone in need
 
 ## Installation
 
--- explain how to get to program -- 
+Clone the repo down, open up the intergrated terminal, and use 'npm i' to download all dependencies associated with the program. See USAGE once completed.
 
 GitHub Repo - https://github.com/asierra619/svg-logo-maker
 
 ## Usage
 
--- explain how to run program in intergrated terminal
+After installing all necessary packages with 'npm i', open your intergrated terminal and enter 'node index.js' to be prompted a series of questions to make your logo.
 
-Link to Demonstration Video - insert link here
+Link to Demonstration Video - https://drive.google.com/file/d/1-F5JNYUzUHTsBoACSS6FWhdhd1Gv0rGf/view
 
-![screenshot of ](./assets/images/)
+![screenshot of VS CODE](./assets/images/Screenshot%202023-12-29%20at%2010.00.58%20PM.png)
 
 ## License
 
