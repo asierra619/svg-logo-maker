@@ -23,7 +23,7 @@ GitHub Repo - https://github.com/asierra619/svg-logo-maker
 
 Link to Demonstration Video - insert link here
 
-![screenshot of intergrated terminal and created .md file](./assets/images/Screenshot%202023-12-11%20at%2010.13.00%20PM.png)
+![screenshot of ](./assets/images/)
 
 ## License
 
