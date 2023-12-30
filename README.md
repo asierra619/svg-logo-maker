@@ -32,3 +32,5 @@ MIT
 ## Credits
 
 Thank you to the following -<br />
+Xpert Learning Assistant for general info<br />
+catxcoding for the Shape Sizing<br />
